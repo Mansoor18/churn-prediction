@@ -1,3 +1,5 @@
+## 🚀 Live Demo
+👉 https://churn-prediction-vi6wq3r4k58haxnitydf8z.streamlit.app/
 # Customer Churn Prediction
 
 Binary classification model to predict telecom customer churn.
